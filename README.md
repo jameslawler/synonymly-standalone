@@ -8,3 +8,7 @@ This project is a work in progress and only usable with a specially crafted Goog
 
 Future versions will be more dynamic
 
+## How to run
+
+`python ./synonymly.py`
+
